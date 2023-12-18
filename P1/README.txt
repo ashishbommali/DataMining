@@ -9,5 +9,5 @@ A single .py file.</b> We can use any standard Python library. The only non-stan
 
 * query(qstring): return a tuple in the form of (filename of the document, score), where the document is the query answer with respect to the weighting scheme. we should stem the query tokens before calculating similarity.
 
-note: keep the dataset files in a single folder called US_Inaugural_Addresses and the Python source file outside this US_Inaugural_Addresses folder
+note: keep the dataset files in a single folder called US_Inaugural_Addresses and the Python source file main.py outside this US_Inaugural_Addresses folder
 __________________________________________________________________________________________________________________________________________
