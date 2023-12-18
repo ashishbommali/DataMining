@@ -12,14 +12,3 @@ A single .py file.</b> We can use any standard Python library. The only non-stan
 
 note: keep the dataset files in a single folder called US_Inaugural_Addresses and the Python source file outside this US_Inaugural_Addresses folder
 __________________________________________________________________________________________________________________________________________
-P2 (Prediction of the positions of the NBA players, Common mapping of positions 
-0: Point Guard (PG)
-1: Shooting Guard (SG)
-2: Small Forward (SF)
-3: Power Forward (PF)
-4: Center (C))
-note: keep the dataset files nba2021.csv and Python source file in a single folder.
-
-__________________________________________________________________________________________________________________________________________
-P3 ()
-
