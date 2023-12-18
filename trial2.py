@@ -1,6 +1,3 @@
-# NAME : Nithin Kumar Putti
-# ID : 1002094448
-
 import pandas as pd
 from sklearn.model_selection import train_test_split, cross_val_score, StratifiedKFold
 from sklearn.svm import SVC
