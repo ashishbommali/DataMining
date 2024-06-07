@@ -1,5 +1,13 @@
 # DataMining
 
+The process of automatic discovery of patterns and knowledge from large
+data repositories, including databases, data warehouses, Web, document
+collections, and data streams. The basic topics of data mining,
+including data preprocessing, frequent pattern and association rule mining,
+correlation analysis, classification and prediction, and clustering, as well as
+advanced topics covering the techniques and applications of data mining in Web,
+text, big data, social networks, and computational journalism.
+
 Installation Requirements:
 
 python --version
